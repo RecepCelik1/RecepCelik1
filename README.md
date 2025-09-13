@@ -1,6 +1,3 @@
-Passionate about building scalable applications and writing clean, maintainable code.
-Currently exploring the **Spring Boot ecosystem** while leveraging my background in **MERN stack** development.  
-
 ## Tech Stack
  **Languages:** Java, JavaScript, TypeScript  
  **Backend:** Spring Boot, Node.js, Express.js  
